@@ -230,7 +230,7 @@
     "lint-staged": "10.5.3",
     "mini-css-extract-plugin": "1.3.4",
     "opencollective-postinstall": "2.0.3",
-    "optimize-css-assets-webpack-plugin": "5.0.3",
+    "optimize-css-assets-webpack-plugin": "5.0.4",
     "prettier": "2.1.2",
     "react-test-renderer": "16.13.1",
     "redux-logger": "3.0.6",
